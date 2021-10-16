@@ -1,0 +1,3 @@
+private
+readQuote 
+	^ self peekFor: $"

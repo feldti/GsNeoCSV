@@ -1,0 +1,25 @@
+{
+	"category" : "Neo-CSV-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cr",
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"readStream",
+		"charBuffer",
+		"separator",
+		"stringStream",
+		"fieldCount",
+		"recordClass",
+		"recordClassIsIndexable",
+		"fieldAccessors",
+		"emptyFieldValue",
+		"strict" ],
+	"name" : "NeoCSVReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

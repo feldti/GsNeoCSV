@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultPrecisionsForCloseToComparison" : "MSK 10/15/2021 23:00" },
+	"instance" : {
+		"assert:closeTo:" : "MSK 10/15/2021 22:58",
+		"assert:closeTo:precision:" : "MSK 10/15/2021 23:02",
+		"floatNumber:closeTo:precision:" : "MSK 10/15/2021 23:04",
+		"number:closeTo:precision:" : "MSK 10/15/2021 23:04",
+		"testBinaryIntegers" : "MSK 10/15/2021 22:52",
+		"testDecimalIntegers" : "MSK 10/15/2021 22:52",
+		"testDigitGroupSeparator" : "MSK 10/15/2021 22:52",
+		"testErrors" : "MSK 10/15/2021 22:52",
+		"testFloats" : "MSK 10/15/2021 22:53",
+		"testFloatsRadixPoint" : "MSK 10/15/2021 22:53",
+		"testHexadecimalIntegers" : "MSK 10/15/2021 22:53",
+		"testNumberExtraction" : "MSK 10/15/2021 22:53",
+		"testOctalIntegers" : "MSK 10/15/2021 22:53" } }

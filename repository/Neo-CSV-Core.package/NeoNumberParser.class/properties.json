@@ -1,0 +1,18 @@
+{
+	"category" : "Neo-CSV-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"base",
+		"radixPoint",
+		"digitGroupSeparator" ],
+	"name" : "NeoNumberParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
