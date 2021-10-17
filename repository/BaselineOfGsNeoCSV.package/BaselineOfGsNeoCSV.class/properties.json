@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfGsNeoCSV",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGsNeoCSV",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
