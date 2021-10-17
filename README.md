@@ -8,6 +8,6 @@ You can load NeoCSV using Metacello
 ```Smalltalk
 Metacello new
   repository: 'github://feldti/GsNeoCSV/repository';
-  baseline: 'NeoCSV';
+  baseline: 'Neo-CSV-Core';
   load.
 ```
