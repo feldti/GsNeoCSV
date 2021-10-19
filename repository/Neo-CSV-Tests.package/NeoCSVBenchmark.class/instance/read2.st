@@ -16,9 +16,9 @@ read2
 
 	(NeoCSVReader on: aStream)
 		recordClass: NeoCSVTestObject;
-		addIntegerField: #x: ;
-		addIntegerField: #y: ;
-		addIntegerField: #z: ;
+		addGsIntegerField: #x: ;
+		addGsIntegerField: #y: ;
+		addGsIntegerField: #z: ;
 		upToEnd.
 
 	aStream close.
