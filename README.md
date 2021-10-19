@@ -3,7 +3,7 @@ GsNeoCSV - based on NeoCSV - is a software library for Gemstone/S64 and is an el
 
 ## Installation
 
-You can load NeoCSV using Metacello
+You can load GsNeoCSV using Metacello
 
 ```Smalltalk
 Metacello new
