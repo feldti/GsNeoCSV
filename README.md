@@ -9,5 +9,6 @@ You can load GsNeoCSV using Metacello
 Metacello new
   repository: 'github://feldti/GsNeoCSV:main/repository';
   baseline: 'GsNeoCSV';
+  onLock: [:ex | ex honor ];
   load 
 ```
