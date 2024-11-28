@@ -10,7 +10,7 @@ baseline: spec
 				with: [ 
 					spec
 						loads: #('Core');
-						repository: 'github://glassdb/PharoCompatibility:master/repository' ];
+						repository: 'github://feldti/PharoCompatibility:master/repository' ];
 				yourself.
 
 			"Now the actual delivered packages"
